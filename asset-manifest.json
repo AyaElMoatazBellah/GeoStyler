@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AyaElMoatazBellah/GeoStyler/static/css/main.a0a7e34e.css",
+    "main.js": "/AyaElMoatazBellah/GeoStyler/static/js/main.a197da07.js",
+    "index.html": "/AyaElMoatazBellah/GeoStyler/index.html",
+    "static/media/default.less": "/AyaElMoatazBellah/GeoStyler/static/media/default.003f90b383291c3b90da.less",
+    "static/media/index.less": "/AyaElMoatazBellah/GeoStyler/static/media/index.512735b3dccd7d4b3088.less",
+    "main.a0a7e34e.css.map": "/AyaElMoatazBellah/GeoStyler/static/css/main.a0a7e34e.css.map",
+    "main.a197da07.js.map": "/AyaElMoatazBellah/GeoStyler/static/js/main.a197da07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a7e34e.css",
+    "static/js/main.a197da07.js"
+  ]
+}

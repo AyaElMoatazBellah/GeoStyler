@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  padding: 20px;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .App-logo {
@@ -35,4 +39,70 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.btn{
+  background-color: #1890ff;
+  color:#fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 0;
+  text-align: center;
+  font-size: 40px;
+}
+.codePreview {
+  text-align: center;
+  padding: 30px;
+  align-items: center;
+  max-width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border: 2px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+  overflow:scroll;
+  height:400px;
+}
+.codePreview h2 {
+  font-size: 40px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.codePreview div{
+  text-align: left;
+}
+.codePreview button {
+  background-color:  #1890ff;
+  color:#fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.mapPreview{
+  text-align: center;
+  padding: 30px;
+  max-width: 95%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border: 2px solid #ddd;
+  box-sizing: border-box;
+}
+.codeEditor{
+  text-align: center;
+  padding: 30px;
+  max-width: 95%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border: 2px solid #ddd;
+  box-sizing: border-box;
 }
